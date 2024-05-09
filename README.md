@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently working on familiarizing myself in Github.
+I am looking to improve myself by working on daily work.
+I am looking to collaborate on any future potential projects.
+I will update my personal description as time elapses. 
+
