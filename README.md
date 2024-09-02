@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working on familiarizing myself in Github.
 I am looking to improve myself by working on daily work.
 I am looking to collaborate on any future potential projects.
-I will update my personal description as time elapses. 
+Had some technical education background and recently completed data engineering bootcamp. 
+I am seeking to begin my technical career and apply relevant skills in a professional setting.
 
