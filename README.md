@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 - Soft Skills: Problem Solving through hands-on daily mini-project sprints, Communication, Team Collaboration, Patience, Creativity, Organization
 
 ### In addition to the above, in my prior education, I had hands-on exprience with:
-Programming Languages: MATLAB, Latex, C++
-Software Engineering: solid four years software engineering education
-Mathematics: Analytical thinking, Problem Solving, Research 
+- Programming Languages: MATLAB, Latex, C++
+- Software Engineering: solid four years software engineering education
+- Mathematics: Analytical thinking, Problem Solving, Research 
 
 Projects in This Repository
 This GitHub repository showcases some of the projects I completed during my bootcamp, including:
