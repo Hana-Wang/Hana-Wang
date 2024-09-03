@@ -46,6 +46,7 @@ This GitHub repository showcases some of the projects I completed during my boot
 - I am continuously learning and refining my skills, and I approach every project as an opportunity to grow.
 - I value collaboration, clear communication, and am committed to writing clean, efficient code.
 - While I’m just starting out in the field, I’m passionate about data engineering and eager to contribute to meaningful projects.
+- While I am particularly interested in Data Engineering roles, I am also open to exploring positions in software engineering, machine learning, or data analysis. My focus is on finding a role where I can collaborate with a team, apply my skills to real-world challenges, and grow alongside experienced professionals.
 
 ## Contact Me
 I’m currently seeking entry-level opportunities where I can further develop my skills and contribute to a team.
